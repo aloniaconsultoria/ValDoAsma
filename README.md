@@ -12,6 +12,7 @@ You can read more about the Quick Start series on the [MongoDB Developer Hub](ht
 # MongoDB Cluster
 
 To get started with MongoDB Atlas and get a free cluster read [this blog post](https://developer.mongodb.com/quickstart/free-atlas-cluster).
+Cambios realizados por mi
 
 # Requirements
 
